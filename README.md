@@ -1,4 +1,4 @@
-# Regfuck virus (7.2)
+# Regfuck virus (5.0)
 1. Regfuck virus
 2. Regfuck virus is my new virus. 
 3. This virus is really destructive. 
